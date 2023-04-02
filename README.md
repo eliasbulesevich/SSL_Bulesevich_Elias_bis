@@ -1,2 +1,1 @@
-# SSL_Bulesevich_Elias
-TP-0
+Este es mi repositorio para la cursada de la materia Sintaxis y Semántica del Lenguaje
